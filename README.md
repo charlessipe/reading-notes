@@ -10,3 +10,4 @@
 ### Networking
 **Networking** accounts for 80% of job opportunities, *Especially* in the tech field
 
+>Don't compare yourself to others, compare youself to yourself yesterday
