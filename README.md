@@ -3,4 +3,10 @@
 ## JavaScript Article
 
 ### Prompt
-Prompt has a return value
+**Prompt** has a return value
+
+## Career Article
+
+### Networking
+**Networking** accounts for 80% of job opportunities
+
