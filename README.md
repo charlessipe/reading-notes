@@ -8,5 +8,5 @@
 ## Career Article
 
 ### Networking
-**Networking** accounts for 80% of job opportunities
+**Networking** accounts for 80% of job opportunities, *Especially* in the tech field
 
