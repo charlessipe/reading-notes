@@ -13,7 +13,7 @@ JS is case sensitive
 
 /* */ (multi-line) or // (single line) are comments not processed by the interpreter
 
-
+A variable without an assigned value is *undefined*.
 
 
 
