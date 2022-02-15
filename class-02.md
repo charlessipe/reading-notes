@@ -33,5 +33,14 @@
 
 -operands are on each side of the operator 
 
+-an operand can be an expression ( score1 + score2)
+
+-logical expressons are evaluated left to right (if one satisfies the condition then there is no need to evaluate the second condition). Example: 
+false && anything (false) 
+true || anything (true)
+
+
+
+
 
 
