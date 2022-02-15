@@ -23,6 +23,7 @@
 
 -order of execution: multiplication division goes before addition subtraction
 
+-adding strings will get a value of NaN, adding a number to a string results in a string
 
 ##Chapter 4: “Decisions and Loops” only up to the section on switch statements (pp.145-162)
 
