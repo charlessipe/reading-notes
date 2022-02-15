@@ -9,7 +9,13 @@
 
 ##Chapter 10: Ch.10 “Introducing CSS” (pp.226-245)
 
+-Imagine an invisible box around every HTML element
 
+-The <link> element point to an external CSS (doesn't need a closing tag)
+
+-Use external CSS for multiple page sites
+
+-CSS selectors are case sensitive
 
 ##Chapter 2: “Basic JavaScript Instructions” (pp.53-84)
 
