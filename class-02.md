@@ -17,11 +17,14 @@ JS is case sensitive
 
 /* */ (multi-line) or // (single line) are comments not processed by the interpreter
 
-A variable without an assigned value is **undefined**.
+-A variable without an assigned value is **undefined**.
 
-boolean data type is true or false
+-boolean data type is true or false
 
-Chapter 4: “Decisions and Loops” only up to the section on switch statements (pp.145-162)
+-order of execution: multiplication division goes before addition subtraction
+
+
+##Chapter 4: “Decisions and Loops” only up to the section on switch statements (pp.145-162)
 
 
 
