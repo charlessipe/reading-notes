@@ -8,4 +8,8 @@
 
 ## Review from Reading 02 - Chapter 2: “Basic JavaScript Instructions” (pp.70-73)
 
+- [ ] Arrays can store a list of values.
+- [ ] You can store multiple data types in the same variable!
+- [ ] Use loop to write out all items in an array.
+
 ## Chapter 4: “Decisions and Loops” from switch statements on (pp.162-182)
