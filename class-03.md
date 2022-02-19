@@ -13,3 +13,4 @@
 - [ ] Use loop to write out all items in an array.
 
 ## Chapter 4: “Decisions and Loops” from switch statements on (pp.162-182)
+- [ ] Switch statements can be more performant than if/else.
