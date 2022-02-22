@@ -11,8 +11,9 @@
 
 ## Chapter 3 (first part): “Functions, Methods, and Objects” (pp.86-99 ONLY)
 
-- [ ] b
-- [ ] c
+- [ ] Function = statements grouped together to perform a specific task. Can be reused multiple times.
+- [ ] Call function for it to execute.
+- [ ] Parameters are like variables, arguments are like values (that are used by the function)
 
 
 ## Article: “6 Reasons for Pair Programming”
