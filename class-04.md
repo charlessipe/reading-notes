@@ -18,5 +18,6 @@
 
 ## Article: “6 Reasons for Pair Programming”
 
-- [ ] b
-- [ ] c
+- [ ] Driver and navigator
+- [ ] Can help catch errors
+- [ ] Improve communication skills
