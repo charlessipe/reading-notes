@@ -6,14 +6,17 @@
 
 ## Chapter 15: “Layout” (pp.358-404)
 
-- [ ] b
-- [ ] c
+- Use float to make columns
+- [ ] Use clearfix to make side of element not touch another element
+- CSS frameworks, use classes with pre-written styles
 
 ## Chapter 3 (first part): “Functions, Methods, and Objects” (pp.86-99 ONLY)
 
 - [ ] Function = statements grouped together to perform a specific task. Can be reused multiple times.
 - [ ] Call function for it to execute.
 - [ ] Parameters are like variables, arguments are like values (that are used by the function)
+- [ ] A function can return an array
+- [ ] A fuction can be called before it is declared ... unless it is a function expression... var area = function () {}
 
 
 ## Article: “6 Reasons for Pair Programming”
