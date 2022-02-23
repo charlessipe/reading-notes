@@ -1,14 +1,15 @@
 
 ## Chapter 4: Ch.4 “Links” (pp.74-93)
 
-- [ ] b
-- [ ] c
+- [ ] Links are the main way to navigate around websites
+- [ ] Use the # in URLs to link to a specific element id (e.g. #conclusion)
+- [ ] target attribute will open in new window (target="_blank")
 
 ## Chapter 15: “Layout” (pp.358-404)
 
-- Use float to make columns
+- [ ] Use float to make columns
 - [ ] Use clearfix to make side of element not touch another element
-- CSS frameworks, use classes with pre-written styles
+- [ ] CSS frameworks, use classes with pre-written styles
 
 ## Chapter 3 (first part): “Functions, Methods, and Objects” (pp.86-99 ONLY)
 
